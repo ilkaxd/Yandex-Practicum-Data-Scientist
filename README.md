@@ -16,7 +16,7 @@
   
 <tr>
 <td><b>1</b></td>
-<td><a href="XXX" target="_blank"><b>Предобработка данных</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/1.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank"><b>Предобработка данных</b></a></td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
 <td><b>Библиотеки</b>, <b>pandas, seaborn</b></td>
 </tr>
