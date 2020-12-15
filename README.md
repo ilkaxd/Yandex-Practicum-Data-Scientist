@@ -30,77 +30,77 @@
 
 <tr>
 <td><b>3</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Статистический анализ данных</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>5</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Сборный Проект-1</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>6</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Введение в машинное обучение</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>7</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Обучение с учителем</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>8</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>9</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Сборный проект-2</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>10</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Линейная алгебра</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>11</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Численные методы</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>12</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Временные ряды</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>13</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Машинное обучение для текстов</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
 
 <tr>
 <td><b>14</b></td>
-<td><a href="XXX" target="_blank"><b>Название</b></a></td>
+<td><a href="XXX" target="_blank"><b>Извлечение данных</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
