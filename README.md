@@ -30,9 +30,9 @@
 
 <tr>
 <td><b>3</b></td>
-<td><a href="XXX" target="_blank"><b>Статистический анализ данных</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/3.%20Статистический%20анализ%20данных.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td>Определяем перспективный тариф для телеком компании</td>
+<td><b>scipy</b>, <b>numpy</b></td>
 </tr>
 
 <tr>
