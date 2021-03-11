@@ -47,15 +47,15 @@
 <tr>
 <td><b>4</b></td>
 <td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>Сборный Проект-1</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank">*</a></td>
-<td>Анализ успешности компьютерных игр</td>
+<td>Анализируем успешность компьютерных игр</td>
 <td><b>pandas</b>, <b>seaborn</b></td>
 </tr>
 
 <tr>
 <td><b>5</b></td>
 <td><a href="XXX" target="_blank"><b>Введение в машинное обучение</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td>Строим модель для прогнозирования тарифного плана для клиента солотового оператора</td>
+<td><b>scikit-learn</b>, <b>joblib</b></td>
 </tr>
 
 <tr>
