@@ -4,7 +4,7 @@
   <meta charset="utf-8">
  </head>
  <body>
-## <a href="https://praktikum.yandex.ru/data-scientist/" target="_blank"><b>Яндекс.Практикум "Специалист по Data Science"</b></a>
+<h1><a href="https://praktikum.yandex.ru/data-scientist/" target="_blank">Яндекс.Практикум "Специалист по Data Science"</a></h1>
 <b>Мои лучшие проекты:</b><br/>
 <a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>4. Анализ продаж игр - лучшая визуализация </b></a><br/>
 <a href="XXX" target="_blank"><b>15. Прогнозирование оттока пользователей для оператора связи - лучшее построение моделей </b></a>
