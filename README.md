@@ -3,7 +3,7 @@
 <a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>4. Анализ продаж игр - лучшая визуализация </b></a><br/>
 <a href="XXX" target="_blank"><b>15. Прогнозирование оттока пользователей для оператора связи - лучшее построение моделей </b></a>
 <br/><br/><br/>
-Если в github не открывается, попробуте использовать <a href="https://nbviewer.jupyter.org/">это</a> с указанием ссылки на интересующий jupyter notebook
+Если в github не открывается, попробуте использовать <a href="https://nbviewer.jupyter.org/" target="_blank">это</a> с указанием ссылки на интересующий jupyter notebook
 
 Остальные проекты:
 
