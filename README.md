@@ -53,7 +53,7 @@
 
 <tr>
 <td><b>5</b></td>
-<td><a href="XXX" target="_blank"><b>Введение в машинное обучение</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/5.%20Введение%20в%20машинное%20обучение.ipynb" target="_blank"><b>Введение в машинное обучение</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/5.%20Введение%20в%20машинное%20обучение.ipynb" target="_blank">*</a></td>
 <td>Строим модель для прогнозирования тарифного плана для клиента солотового оператора</td>
 <td><b>scikit-learn</b>, <b>joblib</b></td>
 </tr>
