@@ -9,7 +9,7 @@
 <a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>4. Анализ продаж игр - лучшая визуализация </b></a><br/>
 <a href="XXX" target="_blank"><b>15. Прогнозирование оттока пользователей для оператора связи - лучшее построение моделей </b></a>
 <br/><br/><br/>
-Если в github не открывается, попробуте использовать <a href="https://nbviewer.jupyter.org/" target="_blank">это</a> с указанием ссылки на интересующий jupyter notebook
+Если .ipynb на github не открывается, нажмите на * для перехода на  <a href="https://nbviewer.jupyter.org/" target="_blank">соответствующий ресурс</a>, на котором jupyter notebook загрузится, но будут ошибки в навигации по ссылки "к оглавлению"
 
 Остальные проекты:
 
@@ -31,21 +31,21 @@
 
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank"><b>Исследовательский анализ данных</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank"><b>Исследовательский анализ данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20Исследовательский%20анализ%20данных.ipynb" target="_blank">*</a></td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>pandas</b>, <b>matplotlib</b></td>
 </tr>
 
 <tr>
 <td><b>3</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/3.%20Статистический%20анализ%20данных.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/3.%20Статистический%20анализ%20данных.ipynb" target="_blank"><b>Статистический анализ данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/3.%20Статистический%20анализ%20данных.ipynb" target="_blank">*</a></td>
 <td>Определяем перспективный тариф для телеком компании</td>
 <td><b>scipy</b>, <b>numpy</b></td>
 </tr>
 
 <tr>
 <td><b>4</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>Сборный Проект-1</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank"><b>Сборный Проект-1</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/4.%20Сборный%20проект%20№1.ipynb" target="_blank">*</a></td>
 <td>Анализ успешности компьютерных игр</td>
 <td><b>pandas</b>, <b>seaborn</b></td>
 </tr>
