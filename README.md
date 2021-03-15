@@ -60,9 +60,9 @@
 
 <tr>
 <td><b>6</b></td>
-<td><a href="XXX" target="_blank"><b>Обучение с учителем</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/6.%20%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BC.ipynb" target="_blank"><b>Обучение с учителем</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/6.%20%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BC.ipynb" target="_blank">*</a></td>
+<td>Прогнозируем отток клиентов с метрикой f-1</td>
+<td><b>scikit-learn</b>, <b>matplotlib</b></td>
 </tr>
 
 <tr>
