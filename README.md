@@ -67,7 +67,7 @@
 
 <tr>
 <td><b>7</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/7.%20Машинное%20обучение%20в%20бизнесе.ipynb" target="_blank"><b>Машинное обучение в бизнесе</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/5.%20Введение%20в%20машинное%20обучение.ipynb" target="_blank">*</a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/7.%20Машинное%20обучение%20в%20бизнесе.ipynb" target="_blank"><b>Машинное обучение в бизнесе</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/7.%20Машинное%20обучение%20в%20бизнесе.ipynb" target="_blank">*</a></td>
 <td>Выбираем регион для бурения нефтяных скважин</td>
 <td><b>sklearn</b>, <b>seaborn</b></td>
 </tr>
