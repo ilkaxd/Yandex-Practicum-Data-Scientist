@@ -81,9 +81,9 @@
 
 <tr>
 <td><b>9</b></td>
-<td><a href="XXX" target="_blank"><b>Линейная алгебра</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/9.%20%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.ipynb" target="_blank"><b>Линейная алгебра</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/9.%20%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.ipynb" target="_blank">*</a></td>
+<td>Шифруем данные с помощью обратимой матрицы</td>
+<td><b>numpy</b>, <b>sklearn</b></td>
 </tr>
 
 <tr>
