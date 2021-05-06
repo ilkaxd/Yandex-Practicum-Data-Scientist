@@ -74,9 +74,9 @@
 
 <tr>
 <td><b>8</b></td>
-<td><a href="XXX" target="_blank"><b>Сборный проект-2</b></a></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/8.%20Сборный%20проект%20№2.ipynb" target="_blank"><b>Сборный проект-2</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/8.%20Сборный%20проект%20№2.ipynb" target="_blank">*</a></td>
 <td>Моделируем процесс восстановления золота из золотосодержащей руды с метрикой sMAPE</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><b>sklearn</b>, <b>seaborn</b></td>
 </tr>
 
 <tr>
