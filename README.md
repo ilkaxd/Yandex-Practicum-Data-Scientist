@@ -88,9 +88,9 @@
 
 <tr>
 <td><b>10</b></td>
-<td><a href="XXX" target="_blank"><b>Численные методы</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/10.%20Численные%20методы.ipynb" target="_blank"><b>Численные методы</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/10.%20Численные%20методы.ipynb" target="_blank">*</a></td>
+<td>Прогнозируем рыночную цену автомобилей с использованием градиентного бустинга</td>
+<td><b>lightgbm</b>, <b>sklearn</b></td>
 </tr>
 
 <tr>
