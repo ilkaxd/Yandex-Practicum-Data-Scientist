@@ -95,9 +95,9 @@
 
 <tr>
 <td><b>11</b></td>
-<td><a href="XXX" target="_blank"><b>Временные ряды</b></a></td>
-<td>Описание</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/11.%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B.ipynb" target="_blank"><b>Временные ряды</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/11.%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B.ipynb" target="_blank">*</a></td>
+<td>Прогнозируем количество заказов такси на следующий час</td>
+<td><b>statsmodels</b>, <b>lightgbm</b></td>
 </tr>
 
 <tr>
